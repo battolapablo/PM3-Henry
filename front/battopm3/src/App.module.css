@@ -1,0 +1,14 @@
+.title{
+    color: red;
+}
+
+body{
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+  background-image: url("https://static.vecteezy.com/system/resources/previews/006/712/964/non_2x/abstract-health-medical-science-healthcare-icon-digital-technology-doctor-concept-modern-innovation-treatment-medicine-on-hi-tech-future-blue-background-for-wallpaper-template-web-design-vector.jpg");
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+}
